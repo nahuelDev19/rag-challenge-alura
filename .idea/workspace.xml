@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e379c67a-7fcc-432c-ba86-e5f7d9a043a0" name="Changes" comment="preparando las clases para desarrollar el rag" />
+    <list default="true" id="e379c67a-7fcc-432c-ba86-e5f7d9a043a0" name="Changes" comment="preparando .env para el api key">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nahuelDev19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nahuelDev19/rag-challenge-alura.git",
+    "accountId": "048c18bd-4c08-432f-a213-99b1128f55c7"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -39,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,13 +103,31 @@
       <option name="project" value="LOCAL" />
       <updated>1783534519620</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dependencias instaladas">
+      <option name="closed" value="true" />
+      <created>1783535409450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783535409450</updated>
+    </task>
+    <task id="LOCAL-00005" summary="preparando .env para el api key">
+      <option name="closed" value="true" />
+      <created>1783537100237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783537100237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit preparando el entorno de trabajo" />
     <MESSAGE value="cargando PDFs de BimBam Buy" />
     <MESSAGE value="preparando las clases para desarrollar el rag" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparando las clases para desarrollar el rag" />
+    <MESSAGE value="dependencias instaladas" />
+    <MESSAGE value="preparando .env para el api key" />
+    <option name="LAST_COMMIT_MESSAGE" value="preparando .env para el api key" />
   </component>
 </project>
