@@ -211,7 +211,7 @@ http://127.0.0.1:7861
 
 La aplicación fue desplegada en **Oracle Cloud Infrastructure (OCI)** para demostrar su funcionamiento fuera del entorno local.
 
-![image alt](rag-challenge-alura/rag_funcionando.png)
+![imagen funcionando](rag_funcionando.png)
 **URL pública:**
 (http://137.131.149.111:7860/)
 La captura de pantalla y/o el enlace anterior evidencian que la aplicación se encuentra operativa en un entorno de nube, accesible más allá de la máquina de desarrollo.
