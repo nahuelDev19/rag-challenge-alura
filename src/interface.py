@@ -8,4 +8,5 @@ gr.ChatInterface(
     fn=chat,
     title="🤖 Asistente BimBam Buy",
     description="Preguntá sobre BimBam Buy utilizando la documentación disponible."
-).launch()
+).launch(server_name="0.0.0.0",
+    server_port=7860)
